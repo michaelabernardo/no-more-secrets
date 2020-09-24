@@ -1,1 +1,2 @@
+tools = ["infer"]
 ignore = ["DEAD_STORE"]
